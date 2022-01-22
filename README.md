@@ -22,4 +22,4 @@ yarn add ../../react-component-typescript-template
 
 ## reference
 
-![React Component な npm のパッケージを作って TypeScript のプロジェクトで使う](https://qiita.com/pure-adachi/items/a9a39b3ffcb5af4c5b59)
+[React Component な npm のパッケージを作って TypeScript のプロジェクトで使う](https://qiita.com/pure-adachi/items/a9a39b3ffcb5af4c5b59)
